@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+* {
+    
+    padding: 0px;
+    font-size: 1em;
+}
+p.video {
+    max-width: 100vh;
+    text-align: center;
+}
