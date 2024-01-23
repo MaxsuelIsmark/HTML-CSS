@@ -29,3 +29,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex015/index.html" target="_blank">Executar o exercício 015</a>
 
+<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-videos/index.html" target="_blank">Executar o desafio de vídeos</a>
+
