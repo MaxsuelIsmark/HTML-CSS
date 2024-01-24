@@ -3,7 +3,7 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex001/index.html" target="_blank">Primeiro Hllo World!</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex001/index.html" target="_blank">Primeiro Helo World!</a>
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex002/indice.html" target="_blank">Parágrafos</a>
 
