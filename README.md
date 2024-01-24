@@ -3,34 +3,34 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex001/index.html" target="_blank">Executar o exercício 001</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex001/index.html" target="_blank">Primeiro Hllo World!</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex002/indice.html" target="_blank">Executar o exercício 002</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex002/indice.html" target="_blank">Parágrafos</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex003/index.html" target="_blank">Executar o exercício 003</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex003/index.html" target="_blank">Teste com imagens</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex004/index.html" target="_blank">Executar o exercício 004</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex004/index.html" target="_blank">Favicon</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex006/index.html" target="_blank">Executar o exercício 006</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex006/index.html" target="_blank">Hierarquia de Títulos</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex008/index.html" target="_blank">Executar o exercío 008</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex008/index.html" target="_blank">Formatação de Texto</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex009/index.html" target="_blank">Executar o exercício 009</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex009/index.html" target="_blank">Listas</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex010/index.html" target="_blank">Executar o exercício 010</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex010/index.html" target="_blank">Usando links externos</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex011/index.html" target="_blank">Executar o exercício 011</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex011/index.html" target="_blank">Imagens dinâmicas</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex012/index.html" target="_blank">Executar o exercício 012</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex012/index.html" target="_blank">Vídeos hospedados localmente e do You Tube</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex013/index.html" target="_blank">Executar o exercício 013</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex013/index.html" target="_blank">Estilos inline</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex014/index.html" target="_balnk">Executar o exercício 014</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex014/index.html" target="_balnk">Estilos locais/internos</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex015/index.html" target="_blank">Executar o exercício 015</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex015/index.html" target="_blank">Estilos externos</a>
 
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex020/hover.html" target="_blank">Exemplo de Hover 20</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex020/hover.html" target="_blank">Exemplo de Hover</a>
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex020/pseudoclasse.html" target="_blank">Pseudoclasse</a>
 
