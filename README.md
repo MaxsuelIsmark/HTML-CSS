@@ -29,5 +29,31 @@ Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex015/index.html" target="_blank">Executar o exercício 015</a>
 
-<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-videos/index.html" target="_blank">Executar o desafio de vídeos</a>
 
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex020/hover.html" target="_blank">Exemplo de Hover 20</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex020/pseudoclasse.html" target="_blank">Pseudoclasse</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex021/caixa01.html" target="_blank">Exemplo de caixa box-level</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex021/caixa02.html#" target="_blank">Grouping tags</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex021/caixa03.html#" target="_blank">Borda Personalizada</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex022/fundo001.html" target="_blank">Testando imagem de fundo</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex022/fundo006.html" target="_blank">Testando imagens de fundo</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex023/tabela001.html" target="_blank">Fazendo tabelas em HTML</a>
+
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex023/tabela006.html" target="_blank">Responsividade de tabelas em telas menores</a>
+
+<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-videos/index.html" target="_blank">Desafio de vídeos</a>
+
+<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-scoial/index.html" target="_blank">Desafio Social</a>
+
+<a href="https://maxsuelismark.github.io/html-css/desafios/imagem-flexivel/index.html" target="_blank">Imagem flexível</a>
+
+<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-cordel/index.html" target="_blank">Desafio cordel</a>
+
+<a href="https://maxsuelismark.github.io/html-css/desafios/desafio-tabelas/desafiotabela.html" target="_blank">Desafio de Tabelas</a>
