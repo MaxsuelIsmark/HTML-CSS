@@ -23,7 +23,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex012/index.html" target="_blank">Vídeos hospedados localmente e do You Tube</a>
 
-<a href="file:///C:/Users/maxsu/OneDrive/%C3%81rea%20de%20Trabalho/Documentos/Estudos/html-css/aulas/ex013/estilos.html" target="_blank">Exemplo de Estilos</a>
+<a href="https://maxsuelismark.github.io/html-css/aulas/ex013/index.html" target="_blank">Exemplo de Estilos</a>
 
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex020/hover.html" target="_blank">Exemplo de Hover</a>
