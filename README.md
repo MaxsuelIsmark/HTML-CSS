@@ -38,8 +38,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus reposiorios
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex022/fundo001.html" target="_blank">Testando imagem de fundo</a>
 
-<a href="https://maxsuelismark.github.io/html-css/aulas/ex022/fundo006.html" target="_blank">Testando imagens de fundo</a>
-
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex023/tabela001.html" target="_blank">Fazendo tabelas em HTML</a>
 
 <a href="https://maxsuelismark.github.io/html-css/aulas/ex023/tabela006.html" target="_blank">Responsividade de tabelas em telas menores</a>
